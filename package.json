@@ -1,0 +1,23 @@
+{
+  "name": "express-cache-router",
+  "version": "1.0.0",
+  "description": "Router cache middleware for express. Useful for caching some pages like /home.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hustxiaoc/express-cache-router"
+  },
+  "keywords": [
+    "express",
+    "cache"
+  ],
+  "author": "308512341@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hustxiaoc/express-cache-router/issues"
+  },
+  "homepage": "https://github.com/hustxiaoc/express-cache-router"
+}
