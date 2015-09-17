@@ -1,6 +1,6 @@
 ## express-cache-router
 
-Router cache middleware for koa. Useful for caching some pages like `/home`.
+Router cache middleware for express. Useful for caching some pages like `/home`.
 
 ### Install
 
